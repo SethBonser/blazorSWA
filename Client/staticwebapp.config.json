@@ -4,7 +4,7 @@
     }, 
     "networking": {
         "allowedIpRanges": [
-          "195.21.138.85/32"
+          "8.8.8.8/32"
     ]
   }
 }
