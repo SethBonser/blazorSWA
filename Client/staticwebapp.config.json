@@ -3,3 +3,11 @@
         "rewrite": "/index.html"
     }
 }
+
+{
+  "networking": {
+    "allowedIpRanges": [
+      "20.99.251.49/32"
+    ]
+  }
+}
